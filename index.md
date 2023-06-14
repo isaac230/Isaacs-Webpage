@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I go to Jasper HS
+And I am a rising sophomore.
 
 ## Research Interests
 
@@ -13,9 +14,8 @@ I am a Ph.D. student at ...
 
 ## Hobbies
 
-- Guitar
-- Tennis
-- Swimming
+- Gaming
+- Coding
 
 ## News
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
